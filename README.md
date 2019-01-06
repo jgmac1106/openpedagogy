@@ -1,3 +1,3 @@
-# Resilient Web Design
+# Open Pedagogy
 
-Source files for the web book.
+
